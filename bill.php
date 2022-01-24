@@ -122,7 +122,7 @@ $no=$no+1;
   transition: 0.5s;
 }
 .button:hover span:after {
-  opacity: 1;
+  opacity: 2;
   right: 0;
 }
 .test:hover{ background-color:#F4F4F4;}
