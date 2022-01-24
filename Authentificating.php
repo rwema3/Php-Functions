@@ -2,7 +2,7 @@
 error_reporting(E_ERROR | E_PARSE);
 session_start();
 include"link.php";
-
+// php license
 $username=$_POST['username'];
 $password=$_POST['password'];
 $hash=md5($password);
@@ -38,7 +38,7 @@ $query=mysqli_query($link,"SELECT * FROM users WHERE username='$username' AND pa
 					{
 					$_SESSION['veri']='Verification';
 					}															
-					header("Location: home.php"); // M-
+					header("Location: home.php"); // Mcd
                     exit; 										
 				}																									
 }
