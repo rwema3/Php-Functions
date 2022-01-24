@@ -47,7 +47,7 @@ $_SESSION['date']=$date;
       </div>  
    </div>
 
-   <div style="width:99.5%;opacity:0.9;background-color:#FFF;position:absolute;top:54px;padding:2px;margin:1px 0;border: 1px solid #000; -webkit-border-radius:5px; box-shadow: 0px 0px 20px #000; height: 780px; overflow:auto;">
+   <div style="width:100%;opacity:0.9;background-color:#FFF;position:absolute;top:52px;padding:2px;margin:1px 0;border: 1px solid #000; -webkit-border-radius:5px; box-shadow: 0px 0px 20px #000; height: 780px; overflow:auto;">
       <div style="background-color:#FFF;border-radius:10px 10px 10px 10px;border:1px solid #FFF;font-size:20px;width:99%;height:43px;position:absolute;left:4px;top:27px;text-align:center;">
       <img src="img/patient.png" width="51" height="43">
          <?php
