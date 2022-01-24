@@ -2,7 +2,7 @@
 error_reporting(E_ERROR | E_PARSE);
 session_start();
 include"link.php";
-// php license
+// php licensing
 $username=$_POST['username'];
 $password=$_POST['password'];
 $hash=md5($password);
