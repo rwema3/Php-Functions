@@ -262,7 +262,7 @@ if ($print==0 && $status==0)
 } ?>
 
 <?php
-// if ($print==1 or $status==1 )
+// if ($print==2 or $status==1 )
 // {
 ?>
 <!-- <button style="position: absolute; left: 84%; top: 100px;" class="button" onclick="printDiv('printMe')"><span>Print</span></button> -->
