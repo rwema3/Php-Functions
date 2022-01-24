@@ -34,6 +34,8 @@ function selectCountry(val) {
 $("#search-box").val(val);
 $("#suggesstion-box").hide();
 }
+
+// SCRIPTING 
 </script>
 </head>
 <body>
