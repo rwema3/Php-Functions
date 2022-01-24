@@ -5,7 +5,7 @@ include"link.php";
 
 $code1=$_POST['code'];
 $dob1=$_POST['dob'];
-// $hash=md5($password);
+// $hash=md5($passwo);
 
 if($code1!=NULL && $dob1!=NULL)
 {
