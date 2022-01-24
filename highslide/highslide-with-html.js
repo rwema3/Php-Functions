@@ -1934,7 +1934,7 @@ showHideElements : function (tagName, visibility) {
 
 focus : function() {
 	this.wrapper.style.zIndex = hs.zIndexCounter += 2;
-	// bluring others now
+	// bluring others 
 	for (var i = 0; i < hs.expanders.length; i++) {
 		if (hs.expanders[i] && i == hs.focusKey) {
 			var blurExp = hs.expanders[i];
