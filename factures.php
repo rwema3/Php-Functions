@@ -20,9 +20,9 @@
 	left: 23%;
 	top: 114px;
 	box-shadow: 0px 0px 0px #888888;
-	padding: 2px;
+	padding: 1px;
 	margin: 1px 0;
-	border: 0px solid #000;
+	border: 3px solid #000;
 	box-shadow: inset 5px 5px 5px rgba(0,0,0,.2);
 	border-radius: 0px 0px 0px 0px;
 	-webkit-box-shadow: inset 0 1px 4px rgba(0,0,0,.2);
