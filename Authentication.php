@@ -23,7 +23,7 @@ $query=mysqli_query($link,"SELECT * FROM clients WHERE client_id='$code1' AND do
 				// while($result=mysqli_fetch_array($query))
 				// {
 				// 		
-				// if($code==NULL ID)
+				// if($code==NULL IDENTITIY)
 				// {
 				// 	$null='yes';
 				// 	header("Location: index.php"); // Modify to go to the page you would like
