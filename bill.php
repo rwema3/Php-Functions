@@ -253,12 +253,12 @@ if ($print==0 && $status==0)
 ?>
 <!-- <form action="bill.php?id=<?php echo $id; ?>&insu=<?php echo $insu; ?>&date=<?php echo $date; ?>" method="post">
   <input type="hidden" name="print" value="1" />
-  <button style="position: absolute; left: 84%; top: 100px;" class="button" ><span>PAY</span></button>
+  <button style="position: absolute; left: 84%; top: 12px;" class="button" ><span>PAY</span></button>
 </form> -->
 <button style="position: absolute; left: 84%; top: 100px;" class="button" onclick="printDiv('printMe')"><span>Print</span></button>
 <?php 
 // if ($status==0)				       
-// mysqli_query($link,"UPDATE orders SET status ='2'  WHERE client_id =$n_id AND date='$date'");
+// mysqli_query($link,"UPDATE orders SET status ='1'  WHERE client_id =$n_id AND date='$date'");
 } ?>
 
 <?php
