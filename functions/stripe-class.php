@@ -4,7 +4,7 @@ class stripeClass{
     /* Class that holds functions that assist us with Stripe ops */
 
     public function createCustomer($fullname,$tel,$city,$country,$email){
-      /* Create a customer oin Stripe */ 
+      /* Stripe account creation */ 
 
 
       $curl = curl_init();
