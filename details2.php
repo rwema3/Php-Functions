@@ -16,7 +16,7 @@
 <?php 
 session_start();
 // if(!$_SESSION['connections']){
-//     header("Location: link.php");
+//     header("Location: login.php");
 //     exit;
 // } 
 ?>
