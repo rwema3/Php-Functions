@@ -144,7 +144,7 @@ input, select{border: 1px solid #069;  height:17px; padding-left:30px;  font-siz
 <font size="-2" face="Tahoma, Geneva, sans-serif">
 <center>
   <br>
-<center><b><u><i><font size="2" face="Tahoma, Geneva, sans-serif">.::MEDICAL E-PAYMENT::.</font></i></u></b></center>
+<center><b><u><i><font size="3" face="Tahoma, Geneva, sans-serif">.::MEDICAL E-PAYMENT::.</font></i></u></b></center>
 <hr style="border:1px solid #000;" />
 <?php 
 if ($status=='1')
