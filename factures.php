@@ -81,7 +81,7 @@ if(!$_SESSION['name']){
 <div  style="box-shadow: 0px 0px 0px 0px #000; border: 1px solid #09F; position:absolute; background-color:#FFF;left:4px;top:35px;width:99%;">
 <div style="position:absolute;border-radius:0px 200px 10px 10px;width:250px;border:1px solid #09F;height:25px;background-color:#BDF;left:1px; top:-27px;"><b>INVOICES<a href="factures_gihogwe.php"><!--....--></a></b></div>
 <center><br>
-<table width="30%" bgcolor="#CCCCCC" border="0" style="font-size:15px; border-collapse: collapse;" cellspacing="0" cellpadding="0">
+<table width="31%" bgcolor="#CCCCCC" border="0" style="font-size:15px; border-collapse: collapse;" cellspacing="0" cellpadding="0">
  <form action="releve.php" method="post" target="_blank">
   <tr>
     <td>
