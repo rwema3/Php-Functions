@@ -191,7 +191,7 @@ $tot_amount_not=0;
                                             // echo'<td class="cent">'.$defrowpe['qtty'].'</td>';                                            
                                             // echo'<td class="cent">'.$defrowpe['date'].'</td>';                                            
                                             // echo'</form>';
-                                            // echo 'tble row';	
+                                            // echo '</tr>';	
                                             }
 				   $tot_amount+=$tot;
 				   if ($insured==0)
