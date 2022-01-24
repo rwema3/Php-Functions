@@ -31,7 +31,7 @@ class stripeClass{
 
     }
 
-    /* Function that charges customers' cards through stripe */
+    /* Function that charges customers' cards through stripeS */
     public function chargeCustomer($amount, $customer_id){
         $curl = curl_init();
 
