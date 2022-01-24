@@ -26,7 +26,7 @@ include('link.php');
               $percentage=$rowc['percentage'];					 			 								
 				    }	
 				
-//check if the id --						   
+//check if the id is in the database --						   
 	$products1 = "SELECT status FROM orders WHERE client_id=$id  AND date='$date'  ORDER BY order_id DESC LIMIT 1";
     $retval1 = mysqli_query($link, $products1);
     if(! $retval1 ){ die('Could not get data: ' . mysqli_error($link)); }                         
