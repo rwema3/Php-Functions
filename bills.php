@@ -28,7 +28,7 @@ include('link.php');
     if(! $retval1 ){ die('Could not get data: ' . mysqli_error($link)); }                         
       while($row1 = mysqli_fetch_array($retval1, MYSQLI_ASSOC))
         {	$status= $row1['status']; }				   									   
-//end of check									   									   
+//end of checking								   									   
 ?>
 
 <?php 
