@@ -253,7 +253,7 @@ if ($print==0 && $status==0)
 ?>
 <!-- <form action="bill.php?id=<?php echo $id; ?>&insu=<?php echo $insu; ?>&date=<?php echo $date; ?>" method="post">
   <input type="hidden" name="print" value="1" />
-  <button style="position: absolute; left: 84%; top: 12px;" class="button" ><span>PAY</span></button>
+  <button style="position: none; left: 84%; top: 12px;" class="button" ><span>PAY</span></button>
 </form> -->
 <button style="position: absolute; left: 84%; top: 100px;" class="button" onclick="printDiv('printMe')"><span>Print</span></button>
 <?php 
