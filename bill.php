@@ -258,7 +258,7 @@ if ($print==0 && $status==0)
 <button style="position: absolute; left: 84%; top: 100px;" class="button" onclick="printDiv('printMe')"><span>Print</span></button>
 <?php 
 // if ($status==0)				       
-// mysqli_query($link,"UPDATE orders SET status ='1'  WHERE client_id =$id AND date='$date'");
+// mysqli_query($link,"UPDATE orders SET status ='2'  WHERE client_id =$n_id AND date='$date'");
 } ?>
 
 <?php
