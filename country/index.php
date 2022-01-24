@@ -3,7 +3,7 @@
 <TITLE>jQuery AJAX Autocomplete - Country Example</TITLE>
 <head>
 <style>
-body{width:610px;}
+body{width:611px;}
 .frmSearch {border: 1px solid #a8d4b1;background-color: #c6f7d0;margin: 2px 0px;padding:40px;border-radius:4px;}
 #country-list{float:left;list-style:none;margin-top:-3px;padding:0;width:190px;position: absolute;}
 #country-list li{padding: 10px; background: #f0f0f0; border-bottom: #bbb9b9 1px solid;}
