@@ -32,7 +32,7 @@ include('link.php');
 ?>
 
 <?php 
-//get the number of  person is incl
+//get the number of  person is inc
 $no=0;
 if ($status!='1')
 {
