@@ -189,8 +189,8 @@ $tot_amount_not=0;
                                             // echo'<tr>';
                                             // echo '<td>'.$defrowpe['name'].'</td>';
                                             // echo'<td class="cent">'.$defrowpe['qtty'].'</td>';                                            
-                                            // echo'<td class="cent">'.$defrowpe['LINK'].'</td>';                                            
-                                            /
+                                            // echo'<td class="cent">'.$defrowpe['LINK'].'</td>'                                           
+                                          
                                             	
                                             }
 				   $tot_amount+=$tot;
