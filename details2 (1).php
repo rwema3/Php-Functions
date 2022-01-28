@@ -16,7 +16,7 @@
 <?php 
 session_start();
 // if(!$_SESSION['valid_user']){
-//     header("Location: conne
+//     header("Location: conn
 // 
 // } 
 ?>
