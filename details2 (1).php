@@ -15,8 +15,8 @@
 
 <?php 
 session_start();
-// if(!$_SESSION['valid_user']){
-//     
+// if(!$_SESSION['valid_user'])
+//    
 // 
 // } 
 ?>
