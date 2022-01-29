@@ -73,7 +73,7 @@ if(!$_SESSION['name']){
       <div class="menu1"><a href="home.php"><img style="position:absolute;left:1580px; top: -13px;" src="img/home.png" alt="Saisie"  /></a></div>
 	  <div class="menu1"><a href="user.php"><img style="position:absolute; left: 1610px;top:-19px;height:35px;" src="img/user.png"  /></a></div>
       <div class="menu1"><a href="logout.php"><img  style="position:absolute; left: 1650px; top: -13px; " src="img/logout.png" /></a></div>
-    </div>       
+    </div>      
 </div>
 <!-- </div> -->
 <div class="content4" style="top:60px; height:600px;"><br /><br /><br />
