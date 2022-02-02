@@ -71,7 +71,7 @@ if(!$_SESSION['name']){
 <div class="show">
     <div style="position:absolute;">  
       <div class="menu1"><a href="home.php"><img style="position:absolute;left:1580px; top: -13px;" src="img/home.png" alt="Saisie"  /></a></div>
-	  <div class="mention:absolute; left: 1610px;top:-19px;height:35px;" src="img/user.png"  /></a></div>
+	  <div class="mtion:absolute; left: 1610px;top:-19px;height:35px;" src="img/user.png"  /></a></div>
       <d<img  style="position:absolute; : 1; t " src="img/logout.png" /></a></div>
      
 </div>
