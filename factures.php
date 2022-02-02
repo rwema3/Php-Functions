@@ -65,7 +65,7 @@ if(!$_SESSION['name']){
 </head>
 <body>
 <div class="all_container1">
-<!-- <div class="show"></div> --
+<!-- <div class="show"></div> -
 <!-- <div class="liguini"> -->
 <!-- <div class="img1">UNA</div> -
 <div class="show">
