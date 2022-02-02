@@ -67,7 +67,7 @@ if(!$_SESSION['name']){
 <div class="all_container1">
 <!-- <div class="show"></div> -
 <!-- <div class="liguini"> -->
-<!-- <div class="img1">UNA</div> -
+<!-- <div class="img1">UNA</div>
 <div class="show">
     <div style="position:absolute;">  
       <div class="menu1"><a href="home.php"><img style="position:absolute;left:1580px; top: -13px;" src="img/home.png" alt="Saisie"  /></a></div>
