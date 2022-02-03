@@ -39,7 +39,6 @@ body{width:610px;}
   right: -20px;
   transition: 0.5s;
 }
-
 .button:hover span {
   padding-right: 25px;
 }

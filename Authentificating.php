@@ -28,7 +28,8 @@ $query=mysqli_query($link,"SELECT * FROM users WHERE username='$username' AND pa
 				
 				if($user2!=NULL)
 				{
-					$_SESSION['uid']=$user_id;
+					$_SESSION['uid']=+
+					$user_id;
 					$_SESSION['valid_user']=$user2;
 					$_SESSION['name']=$name;
 					$_SESSION['post']=$post;
