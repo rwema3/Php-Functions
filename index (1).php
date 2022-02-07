@@ -7,7 +7,7 @@ $msg=$_GET['msg'];
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link href="css.css" rel="stylesheet" type="text/css" media="screen" />
    <link rel="stylesheet" href="styles.css">
-   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript">
+   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"
    <script src="script.js"></script>        
 <title>Med E-Pay</title>
 <style>
