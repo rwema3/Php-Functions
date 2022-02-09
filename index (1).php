@@ -8,7 +8,7 @@ $msg=$_GET['msg'];
 <link href="css.css" rel="stylesheet" type="text/css" media="screen" />
    <link rel="stylesheet" href="styles.css">
    
-   <script src="script.js"></script>      
+   <script src="script.js"></script      
 <title>Med E-Pay</title>
 <style>
 .printme{ background-color:#CCC;}
