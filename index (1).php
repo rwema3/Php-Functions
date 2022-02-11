@@ -64,7 +64,7 @@ $msg=$_GET['msg'];
 }
 .button1 span {
   cursor: pointer;
-  display: inline-
+  display: inline-b
   position: relative;
   transition: 0.5s;
 }
