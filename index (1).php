@@ -73,7 +73,7 @@ $msg=$_GET['msg'];
   right: 0;
 }
 .test:hover{ background-color:#F4F4F4;}
-input, select{border: 1polid #069;  height:17px; padding-left:30px;  font-size:16px;}
+input, select{border: 1px olid #069;  height:17px; padding-left:30px;  font-size:16px;}
 .back{background-color:#999;position:absolute;left:50%;height:;width:300px;top:300px;opacity:1.8;border-radius:10px;box-shadow:10px 10px 10px 10px #111;}
 </style>
 </head>
