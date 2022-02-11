@@ -9,7 +9,7 @@ $msg=$_GET['msg'];
    <link rel="stylesheet" href="styles.css">
    <script src="http://code.jquer
    <script src="script.js"></script>        
-<title>Med E-Pay</tit
+<title>Med E-Pay</titl
 .printme{ background-color:#CCC;}
 .button {
 	border:hidden;
