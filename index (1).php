@@ -36,7 +36,8 @@ $msg=$_GET['msg'];
 
 .button span:after {
   content: '>>';
-  posits
+  position: absolute;
+  opacitys
   right: -20px;
   transition: 0.5s;
 }
