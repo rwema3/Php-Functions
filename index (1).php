@@ -38,7 +38,7 @@ $msg=$_GET['msg'];
   content: '>>';
   position: absolute;
   opacity: 0;
-  top: 0
+  top: 
   right: -20px;
   transition: 0.5s;
 }
