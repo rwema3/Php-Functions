@@ -24,7 +24,7 @@ $msg=$_GET['msg'];
   width: auto;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 2px;s
+  margin: 2px;
 }
 
 .button span {
