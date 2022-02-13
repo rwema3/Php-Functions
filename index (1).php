@@ -16,14 +16,15 @@ $msg=$_GET['msg'];
 	border:hidden;
   display: inline-block;
   border-radius: 4px;
-  bac
+  background-color:#096;
+  color: #FFFFFF;
   text-align: center;
-size: 16px;
+  font-size: 16px;
   padding: 10px;
   width: auto;
   transition: all 0.5s;
   cursor: pointer;
-  
+  margin: 2px;
 }
 
 .button span {
