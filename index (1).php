@@ -16,9 +16,9 @@ $msg=$_GET['msg'];
 	border:hidden;
   display: inline-block;
   border-radius: 4px;
-  back
+  bac
   text-align: center;
-  font-size: 16px;
+  fontsize: 16px;
   padding: 10px;
   width: auto;
   transition: all 0.5s;
