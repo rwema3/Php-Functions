@@ -13,8 +13,7 @@ $msg=$_GET['msg'];
 <style>
 .printme{ background-color:#CCC;}
 .button {
-	border:hidden;
-  
+	border:hidden
   background-color:#096;
   color: #FFFFFF;
   text-align:enter;
