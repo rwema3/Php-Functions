@@ -15,7 +15,7 @@ $msg=$_GET['msg'];
 .button {
 	border:hidden;
   display: inline-block;
-  border-radius: 4
+  border-radius: 
   background-color:#096;
   color: #FFFFFF;
   text-align:enter;
