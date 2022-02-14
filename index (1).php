@@ -15,10 +15,10 @@ $msg=$_GET['msg'];
 .button {
 	border:hidden;
   display: inline-block;
-  border-radius: 4p
+  border-radius: 4px;
   background-color:#096;
   color: #FFFFFF;
-  text-align:enter;
+  text-align: center;
   font-size: 16px;
   padding: 10px;
   width: auto;
