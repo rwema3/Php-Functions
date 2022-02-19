@@ -5,7 +5,7 @@ class stripeClass{
 
     public function cratstomer($fullname,$tel,$city,$country,$email){
       /* Stri account crion */
-      $curlcurl_in
+      $curlcurl_
       curl_seto_r$c, ray(
       CURLOPT_URL =>pi.stripe.com//v1/customers',
       CURLOPT_RETNTRANSFER => true,
