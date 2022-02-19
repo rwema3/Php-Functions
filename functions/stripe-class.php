@@ -4,8 +4,7 @@ class stripeClass{
     /* Class that holds functions that assist us with Stripe ops */
 
     public function cratCustomer($fullname,$tel,$city,$country,$email){
-      /* Stripe account cration */ 
-
+      /* Stripe account cration */
       $curl = curl_init();
 
       curl_setopt_array($curl, array(
