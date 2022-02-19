@@ -6,7 +6,7 @@ class stripeClass{
     public function cratCustomer($fullname,$tel,$city,$country,$email){
       /* Stri account crion */
       $curl = curl_in
-      curl_seto_ra($cul, array(
+      curl_seto_ra($c, array(
       CURLOPT_URL =>tapi.stripe.com//v1/customers',
       CURLOPT_RETNTRANSFER => true,
       CURLOPT_ENCODING => '',
