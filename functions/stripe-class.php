@@ -8,7 +8,7 @@ class stripeClass{
       $curl = curl_init();
 
       curl_setopt_array($curl, array(
-      CURLOPT_URL => 'https://api.stripe.com//v1/customers',
+      CURLOPT_URL => 'htts://api.stripe.com//v1/customers',
       CURLOPT_RETURNTRANSFER => true,
       CURLOPT_ENCODING => '',
       CURLOPT_MAXREDIRS => 10,
