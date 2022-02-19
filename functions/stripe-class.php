@@ -30,7 +30,7 @@ class stripeClass{
     }
     /* Function that charges customers' cards through stripeS */
     public function chargeCustomer($amount, $customer_id){
-        $curl = cur_init();
+        $curl = cur_init()
 
         curl_setopt_array($curl, array(
         CURLOPT_URL => 'https://api.stripe.com//v1/charges',
