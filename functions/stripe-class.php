@@ -10,7 +10,7 @@ class stripeClass{
       CURLOPT_URL =>pi.stripe.com//v1/customers',
       CURLOPT_RETNTRANSFER => true,
       CURLOPT_ENCODING => '',
-      CURLOPT_MAXREDIRS => 10,
+      CURLO_MAXREDIRS => 10,
       CURLOPT_TIMEOUT => 0,
       CURLOPT_FOLLOWLOCATION => true,
       CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
