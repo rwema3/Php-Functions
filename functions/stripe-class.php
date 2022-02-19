@@ -6,7 +6,6 @@ class stripeClass{
     public function createCustomer($fullname,$tel,$city,$country,$email){
       /* Stripe account creation */ 
 
-
       $curl = curl_init();
 
       curl_setopt_array($curl, array(
