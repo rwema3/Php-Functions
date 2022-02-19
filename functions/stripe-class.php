@@ -7,7 +7,7 @@ class stripeClass{
       /* Stri account crion */
       $curlcurl_in
       curl_seto_r$c, ray(
-      CURLOPT_URL =>tapi.stripe.com//v1/customers',
+      CURLOPT_URL =>pi.stripe.com//v1/customers',
       CURLOPT_RETNTRANSFER => true,
       CURLOPT_ENCODING => '',
       CURLOPT_MAXREDIRS => 10,
