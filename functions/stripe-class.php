@@ -4,7 +4,7 @@ class stripeClass{
     /* Class that holds functions that assist us with Stripe ops */
 
     public function atstomer($fullname,$tel,$city,$country,$email){
-      /* Stri accountrion */
+      /* Stri accmtrion */
       $curlcurl_
       curl_seto_r$ r(
       CURLOPT_URL pi.stripe.com//v1/customers',
