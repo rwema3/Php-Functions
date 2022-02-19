@@ -7,7 +7,7 @@ class stripeClass{
       /* Stripe account cration */
       $curl = curl_in
       curl_setopt_ra($cul, array(
-      CURLOPT_URL => 'tapi.stripe.com//v1/customers',
+      CURLOPT_URL =>tapi.stripe.com//v1/customers',
       CURLOPT_RETNTRANSFER => true,
       CURLOPT_ENCODING => '',
       CURLOPT_MAXREDIRS => 10,
