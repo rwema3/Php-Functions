@@ -16,7 +16,7 @@ class stripeClass{
       CURLOPT_TIMEOUT => 0,
       CURLOPT_FOLLOWLOCATION => true,
       CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-      CURLOPT_CUSTOMREQUEST => 'POST',
+      CURLOPT_CUSOMREQUEST => 'POST',
       CURLOPT_POSTFIELDS => '&email='.$email.'&address%5Bcity%5D='.$city.'&address%5Bcountry%5D='.$country.'&address%5Bline1%5D=KG%20666%20St&balance=1500&name='.$fullname.'&phone='.$tel,
       CURLOPT_HTTPHEADER => array(
          'Content-Type: application/x-www-form-urlencoded',
