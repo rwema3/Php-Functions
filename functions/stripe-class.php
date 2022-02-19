@@ -5,7 +5,7 @@ class stripeClass{
 
     public function atstomer($fullname,$tel,$city,$country,$email){
       /* Stri accmtrion */
-      $curlcurl_
+      $curlcur
       curl_seto_
       CURLOPT_URL pi.stripe.com//v1/customers',
       CURLOPT_RETNTRANSFER => true,
