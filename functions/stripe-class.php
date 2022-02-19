@@ -3,7 +3,7 @@
 class stripeClass{
     /* Class that holds functions that assist us with Stripe ops */
 
-    public function cratstomer($fullname,$tel,$city,$country,$email){
+    public function atstomer($fullname,$tel,$city,$country,$email){
       /* Stri account crion */
       $curlcurl_
       curl_seto_r$ ray(
