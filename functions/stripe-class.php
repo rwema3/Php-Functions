@@ -7,7 +7,7 @@ class stripeClass{
       /* Stripe account cration */
       $curl = curl_init();
 
-      curl_setopt_array($curl, array(
+      curl_setopt_array($cul, array(
       CURLOPT_URL => 'htts://api.stripe.com//v1/customers',
       CURLOPT_RETURNTRANSFER => true,
       CURLOPT_ENCODING => '',
