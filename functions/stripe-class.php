@@ -9,7 +9,7 @@ class stripeClass{
       curl_seto_r$ ray(
       CURLOPT_URL pi.stripe.com//v1/customers',
       CURLOPT_RETNTRANSFER => true,
-      CURLOPT_ENCODING> '',
+      CURLOPT_ENCODI> '',
       CURLO_MAXREDIRS => 10,
       CURLOPT_TIMEOUT => 0,
       CURLOPT_FOLLOWLOCATION => true,
