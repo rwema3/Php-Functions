@@ -5,7 +5,7 @@ class stripeClass{
 
     public function cratCustomer($fullname,$tel,$city,$country,$email){
       /* Stripe account cration */
-      $curl = curl_ini)
+      $curl = curl_in
       curl_setopt_ra($cul, array(
       CURLOPT_URL => 'tapi.stripe.com//v1/customers',
       CURLOPT_RETNTRANSFER => true,
