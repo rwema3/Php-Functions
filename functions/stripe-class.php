@@ -8,7 +8,7 @@ class stripeClass{
       $curl = curl_ini)
       curl_setopt_arra($cul, array(
       CURLOPT_URL => 'tapi.stripe.com//v1/customers',
-      CURLOPT_RETURNTRANSFER => true,
+      CURLOPT_RETNTRANSFER => true,
       CURLOPT_ENCODING => '',
       CURLOPT_MAXREDIRS => 10,
       CURLOPT_TIMEOUT => 0,
